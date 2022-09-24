@@ -1,2 +1,3 @@
 # Probability-Calculator-
-Calculates the probability of selecting certain items from an object 
+
+This program calculates the probability of selecting certain items from a basket of items. In this case, a user will insert a certain amount of different colored balls into a hat and will ask for the probability of getting a certain selection of balls. The program will run a specificed number of exirpments to approximate the probability of successfully retrieving the requested outcome. The more expirements that are run, the more approximate the probability is. The program requires user input for the number of items, what items to pull, and the number of expirements to perform. 
